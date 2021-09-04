@@ -8,12 +8,11 @@
  IMPORTANT:  Restart your computer after installing XQuartz
 
 ## How to install MacOSX version
-*  Move into the folder DEBUSSY_v2.2 to install the programs Suite, and type on the Terminal:
-  ./install_debussy_v2.2
-At some point you will be asked for root credentials, to move some library provided by us, in the /usr/local/* and /opt/local/* folders. 
-During this step the anaconda3 and DEBUSSY_v2.2 paths will be added at the User environmental variable. 
-A missing python library (wxpython 4.0.7) will be installed.
-The installation can take some minutes.  
+*  Move into the folder DEBUSSY_v2.2 to install the programs Suite, and type on the Terminal: ./install_debussy_v2.2 <br>
+At some point you will be asked for root credentials, to move some library provided by us, in the /usr/local/* and /opt/local/* folders. <br>
+During this step the anaconda3 and DEBUSSY_v2.2 paths will be added at the User environmental variable. <br>
+A missing python library (wxpython 4.0.7) will be installed.<br>
+The installation can take some minutes.  <br>
 At the end of the procedure, you will have a message “DONE!!’  and “BYE BYE” on your terminal window. 
 * Inside the DEBUSSY_v2.2 folder you can find a RUN_TEST_UNIX folder, containing some files to test the Debussy workflow. Type on the Terminal:
 cd RUN_TEST_UNIX 
