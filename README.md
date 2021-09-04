@@ -24,7 +24,8 @@ The run-time output of the program should appear on the Terminal ending with “
 
 
 ## How to install WINDOWS version
-* copy cygwin64 folder under C:\  Any other location is not handled 
+* copy cygwin64 folder under C:\  
+  Any other location is not handled 
 * Double click on the install_v2.2.bat file (eventually, if possible, click on the option “Run as administrator” with the right mouse button): 
   this batch file will update the variable Path of the User, by adding the C:\cygwin64\bin path and it will install the wxpython (4.0.7) module that is missing in the Anaconda package. 
 -	If the automatic setting of the environmental variables fails, you can update the variable User Path by yourself (by adding C:\cygwin64\bin\, 
