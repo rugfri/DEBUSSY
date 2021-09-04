@@ -4,8 +4,8 @@
 * Download and install Anaconda Python 3.8 from https://www.anaconda.com/products/individual 
 * Download and install Java from www.java.com (it is suggested to download the last version available on the website:
  Java version older than April 2019 may give some issues, due to modification in the Oracle Java license).
-* FOR MacOS ONLY: Install XQuartz. Download the dmg from the following website: www.xquartz.org 
-  IMPORTANT:  Restart your computer after installing XQuartz
+* FOR MacOS ONLY: Install XQuartz. Download the dmg from the following website: www.xquartz.org  
+ IMPORTANT:  Restart your computer after installing XQuartz
 
 ## How to install MacOSX version
 *  Move into the folder DEBUSSY_v2.2 to install the programs Suite, and type on the Terminal:
