@@ -7,7 +7,7 @@
 * FOR MacOS ONLY: Install XQuartz. Download the dmg from the following website: www.xquartz.org 
   IMPORTANT:  Restart your computer after installing XQuartz
 
-## How to install MacOS version
+## How to install MacOSX version
 *  Move into the folder DEBUSSY_v2.2 to install the programs Suite, and type on the Terminal:
   ./install_debussy_v2.2
 At some point you will be asked for root credentials, to move some library provided by us, in the /usr/local/* and /opt/local/* folders. 
