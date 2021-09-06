@@ -8,6 +8,6 @@ REM set MOD=%VAR:pip3.exe=pip.exe%
 REM echo Pip3 path is %MOD%
 %VAR% install wxpython==4.0.7
 del temp.txt
-setx  /M PATH "C:\cygwin64\bin\;C:\cygwin64\DEBUSSY_v2.2\bin\;%PATH%"
+setx  /M PATH "C:\cygwin64\DEBUSSY_v2.2\bin\;%PATH%"
 pause
 
