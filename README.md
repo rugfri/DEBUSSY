@@ -14,11 +14,7 @@ During this step the anaconda3 and DEBUSSY_v2.2 paths will be added at the User 
 A missing python library (wxpython 4.0.7) will be installed.<br>
 The installation can take some minutes.  <br>
 At the end of the procedure, you will have a message “DONE!!’  and “BYE BYE” on your terminal window. 
-* Inside the DEBUSSY_v2.2 folder you can find a RUN_TEST_UNIX folder, containing some files to test the Debussy workflow. <br>
-Type on the Terminal:<br>
-				cd  RUN_TEST_UNIX <br>
-				sh  drun.sh <br>
-The run-time output of the program should appear on the Terminal ending with “Debussy simulation done”.
+* Inside the DEBUSSY_v2.2 folder you can find a RUN_TEST_UNIX folder, containing some files to test the Debussy workflow (launch the script drun.sh). <br>
 * Check the GUI installation, by double clicking on the debussy-suite_gui launcher in DEBUSSY_v2.2 folder. 
   If you can see on your screen the GUI starting, the installation procedure ended successfully. 
 
