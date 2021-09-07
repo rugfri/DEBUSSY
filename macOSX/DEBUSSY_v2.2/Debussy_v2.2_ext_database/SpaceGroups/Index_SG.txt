@@ -190,7 +190,8 @@ SPG_grp/SG_Nr_156.grp
 SPG_grp/SG_Nr_157.grp
 SPG_grp/SG_Nr_158.grp
 SPG_grp/SG_Nr_159.grp
-SPG_grp/SG_Nr_160.grp
+SPG_grp/SG_Nr_160_sH.grp
+SPG_grp/SG_Nr_160_sR.grp
 SPG_grp/SG_Nr_161.grp
 SPG_grp/SG_Nr_162.grp
 SPG_grp/SG_Nr_163.grp

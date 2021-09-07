@@ -80,7 +80,6 @@
     62     1   Pnma         SPG_grp/SG_Nr_062.grp
     62     1   Pnma         SPG_grp/SG_Nr_062_Pbnm.grp
     62     1   Pnma         SPG_grp/SG_Nr_062_Pmcn.grp
-    62     1   Pnma         SPG_grp/SG_Nr_062_Pmcn.gen
     63     2   Cmcm         SPG_grp/SG_Nr_063.grp
     64     2   Cmca         SPG_grp/SG_Nr_064.grp
     65     2   Cmmm         SPG_grp/SG_Nr_065.grp
@@ -193,7 +192,8 @@
    157     1   P31m         SPG_grp/SG_Nr_157.grp
    158     1   P3c1         SPG_grp/SG_Nr_158.grp
    159     1   P31c         SPG_grp/SG_Nr_159.grp
-   160     3   R3m          SPG_grp/SG_Nr_160.grp
+   160     3   R3m          SPG_grp/SG_Nr_160_sH.grp
+   160     3   R3m          SPG_grp/SG_Nr_160_sR.grp
    161     3   R3c          SPG_grp/SG_Nr_161.grp
    162     1   P-31m        SPG_grp/SG_Nr_162.grp
    163     1   P-31c        SPG_grp/SG_Nr_163.grp
@@ -201,7 +201,8 @@
    165     1   P-3c1        SPG_grp/SG_Nr_165.grp
    166     3   R-3m         SPG_grp/SG_Nr_166_sH.grp 
    166     1   R-3m         SPG_grp/SG_Nr_166_sR.grp
-   167     3   R-3c         SPG_grp/SG_Nr_167.grp
+   167     3   R-3c         SPG_grp/SG_Nr_167_sH.grp
+   167     1   R-3c         SPG_grp/SG_Nr_167_sR.grp
    168     1   P6           SPG_grp/SG_Nr_168.grp
    169     1   P6_1         SPG_grp/SG_Nr_169.grp
    170     1   P6_5         SPG_grp/SG_Nr_170.grp
