@@ -29,7 +29,6 @@ At the end of the procedure, you will have a message “DONE!!’  and “BYE BY
 							pip3 install wxpython==4.0.7
 * Open the C:\cygwin64\RUN_TEST_WIN and double click on drun.bat. 
 The run-time output of the program should appear on the Terminal ending with “Debussy simulation done”. 
-
 * Double click on the debussy-suite_GUI.bat shortcut (under C:\cygwin64\DEBUSSY_v2.2\) for launching the GUI of the Suite 
   (you can also create a desktop shortcut and associate the debussy-icon.ico available in the folder).
  If you see on your screen the GUI starting, the installation procedure ended successfully. 
