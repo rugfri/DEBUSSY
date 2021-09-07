@@ -25,7 +25,7 @@ At the end of the procedure, you will have a message “DONE!!’  and “BYE BY
 * Double click on the install_v2.2.bat file (eventually, if possible, click on the option “Run as administrator” with the right mouse button): 
   this batch file will update the System variable Path, by adding the C:\cygwin64\bin path and it will install the wxpython (4.0.7) module that is missing in the Anaconda package. 
 	-	If the automatic setting of the environmental variables fails, you can update the User/System variable Path by yourself (by adding C:\cygwin64\bin\, as explained here: https://www.opentechguides.com/how-to/article/windows-10/113/windows-10-set-path.html). 
-	-	If the automatic wxpython (4.0.7) installation fails, you can type from cmd.exe:
+	-	If the automatic wxpython (4.0.7) installation fails, you can type from Anaconda prompt:
 							pip3 install wxpython==4.0.7
 * Open the C:\cygwin64\RUN_TEST_WIN and double click on drun.bat. 
 The run-time output of the program should appear on the Terminal ending with “Debussy simulation done”. 
