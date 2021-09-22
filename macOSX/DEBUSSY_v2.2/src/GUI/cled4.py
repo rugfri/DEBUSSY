@@ -358,8 +358,7 @@ class Population(wx.lib.scrolledpanel.ScrolledPanel):
             dlg.Destroy()
 
     def get_SGlist(self, sep = '/'):
-       # sgf = open(gset.DEB_Path + 'ext_database' + gv.SEP + 'SpaceGroups' + gv.SEP + 'SG_Centering_PS.txt', 'r')
-        sgf = open('/usr/local/lib/Debussy_v2.2_ext_database/SpaceGroups/SG_Centering_PS.txt', 'r')
+        sgf = open(gset.DEB_Path + 'ext_database' + gv.SEP + 'SpaceGroups' + gv.SEP + 'SG_Centering_PS.txt', 'r')
         sgfl = sgf.readlines()
         sgf.close()
         sgn, sgsym, sgnt, sgs_list, ps, lsgsym = [], [], [], ['    '], [], []
